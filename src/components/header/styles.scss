@@ -1,0 +1,32 @@
+header{
+    display: block;
+    width: 100%;
+    margin:0 auto;
+    padding:0 10px;
+    height: 50px;
+    background-color: black;
+    .wrap{
+        position: relative;
+        display:block;
+        width:100%;
+        margin:0 auto;
+        max-width: 980px;
+        height: 100%;
+        .logo{
+            display: block;
+            width: 120px;;
+            position:absolute;
+            left:10px;
+            top:50px;
+            -webkit-transform: translateY(-50px);
+            -moz-transform: translateY(-50px);
+            transform: translateY(-50px);
+            img{
+                display: block;
+                width:100%;
+                margin:0;
+                height: 50px;
+            }
+        }
+    }
+}
