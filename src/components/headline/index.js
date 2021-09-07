@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import PropTypes, { number } from 'prop-types'
+import PropTypes from 'prop-types'
 class Headline extends Component {
     constructor(props){
         super(props)
