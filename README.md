@@ -12,3 +12,6 @@ This app is for exploring testing of react app.
 | git commit -m "commit message"        | comitting changes to local branch                                                     |
 | git status                            | we can see local branch name                                                          |
 | git push origin branch1               | push changes from local current branch as shown in  git status to branch1 on remote   |
+
+
++ Commit 1
